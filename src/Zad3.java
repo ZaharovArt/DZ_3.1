@@ -19,28 +19,28 @@ public class Zad3 {
                 System.out.println("Гав-Гав");
                 break;
             case 3:
-                System.out.println("Мяу-Мяу");
-                break;
-            case 4:
                 System.out.println("Хрю-Хрю");
                 break;
+            case 4:
+                System.out.println("Ква-Ква");
+                break;
             case 5:
-                System.out.println("Мяу-Мяу");
+                System.out.println("Иго-Го");
                 break;
             case 6:
-                System.out.println("Мяу-Мяу");
+                System.out.println("У-У");
                 break;
             case 7:
-                System.out.println("Мяу-Мяу");
+                System.out.println("Кука-Реку");
                 break;
             case 8:
-                System.out.println("Мяу-Мяу");
+                System.out.println("Кря-Кря");
                 break;
             case 9:
-                System.out.println("Мяу-Мяу");
+                System.out.println("Угу-Угу");
                 break;
             case 10:
-                System.out.println("Мяу-Мяу");
+                System.out.println("Чирик-Чирик");
                 break;
         }
 
